@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeebbr)](https://solved.ac/aeebbr/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=accegr)](https://solved.ac/accegr/)
 <br/>
 <br/>
 
