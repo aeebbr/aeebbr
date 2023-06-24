@@ -1,4 +1,8 @@
 ### Hi there 👋
+### 🌱 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeebbr)](https://solved.ac/aeebbr/)
+<br/>
+<br/>
 
 ### 👩🏻‍💻 Experience
 - 삼성 청년 SW 아카데미 8기 (2022.07 - 2023.06)
